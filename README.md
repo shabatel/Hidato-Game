@@ -1,8 +1,10 @@
 ------ HIDATO GAME-------
+Hitado game and solver if you are too lazy ;)
 
-What I did:
+The graphical interface made with pygame
 
-HOW To PLAY:
+Want To PLAY?
+Just run it and follow the Instructions
 
 RULES:
 Fill the grid with the numbers 1 To len(board)**2 To make a path in sequential order.
